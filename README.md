@@ -8,7 +8,7 @@
 
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=rukiyedoganay&show_icons=true&theme=gradient)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rukiyedoganay&show_icons=true&bg_color=00000000)
+
 <!--
 **rukiyedoganay/rukiyedoganay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
