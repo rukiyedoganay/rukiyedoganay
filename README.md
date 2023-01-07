@@ -1,5 +1,7 @@
 ### Hello i'm Rukiye from Turkiye. 
+
 ✨As a QA Test Engineer, I use the tools and languages i have learned for both automation and manual testing.
+
 🔭 I'm currently working on learning new tools and technologies to stay up-to-date in my field.
 
 
