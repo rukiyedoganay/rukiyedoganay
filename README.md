@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello i'm Rukiye from Turkiye. 
+As a QA Test Engineer, I use the tools and languages i have learned for both automation and manual testing.
+
+🔭 I'm currently working on learning new tools and technologies to stay up-to-date in my field.
+
+
 
 <!--
 **rukiyedoganay/rukiyedoganay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
