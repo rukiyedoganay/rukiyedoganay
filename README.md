@@ -4,8 +4,11 @@
 
 🔭 I'm currently working on learning new tools and technologies to stay up-to-date in my field.
 
+### Skills: Java | Selenium | Cucumber | JIRA | SQL | JDBC | LAMBDA
 
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rukiyedoganay&show_icons=true&bg_color=00000000)
 <!--
 **rukiyedoganay/rukiyedoganay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
