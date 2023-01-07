@@ -1,4 +1,4 @@
-## Hello i'm Rukiye from Turkiye. 
+  ## Hello i'm Rukiye from Turkiye. 
 
 _✨As a QA Test Engineer, I use the tools and languages i have learned for both automation and manual testing._
 
@@ -6,8 +6,11 @@ _🔭 I'm currently working on learning new tools and technologies to stay up-to
 
 ### Skills: Java | Selenium | Cucumber | JIRA | SQL | JDBC | LAMBDA
 
---### 🔧 Languages and Tools:
---:computer:Java :books: :mortar_board: :rocket: :bulb: :octocat:
+### 🔧 Languages and Tools:
+SeleniumJavaGitHubPostgreHtmlCssJiraCucumberGitInteliJJenkinsSlackVsCode
+
+
+
 
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=rukiyedoganay&show_icons=true&theme=radical)
