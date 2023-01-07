@@ -1,8 +1,8 @@
-### Hello i'm Rukiye from Turkiye. 
+## Hello i'm Rukiye from Turkiye. 
 
-✨As a QA Test Engineer, I use the tools and languages i have learned for both automation and manual testing.
+_✨As a QA Test Engineer, I use the tools and languages i have learned for both automation and manual testing._
 
-🔭 I'm currently working on learning new tools and technologies to stay up-to-date in my field.
+_🔭 I'm currently working on learning new tools and technologies to stay up-to-date in my field._
 
 ### Skills: Java | Selenium | Cucumber | JIRA | SQL | JDBC | LAMBDA
 
